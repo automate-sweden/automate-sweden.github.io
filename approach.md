@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 title: Approach
 description: Planned approach and implementation
 image: assets/images/sweden-flag.jpg
