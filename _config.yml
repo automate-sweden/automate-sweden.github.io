@@ -3,8 +3,8 @@ title: Automate Sweden
 subtitle: A Swedish Excellence Cluster
 email: automate-sweden@excellent.se
 description: Welcome to the future of robotics and automation<br /> made in Sweden.
-baseurl: "/automate-sweden" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://automate-sweden.github.io # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
