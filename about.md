@@ -1,7 +1,7 @@
 ---
 title: About
 layout: about
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Automate Sweden is a Vinnova excellence cluster in robotics'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,14 +13,14 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Purpose</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Automate Sweden will build a world-leading cluster of excellence in robotics that strengthens Sweden's long-term competitiveness through faster automation in SMEs. We treat robots as autonomous systems with AI that makes robots adapt to humans, which lowers programming costs, increases flexibility, and shortens the time from idea to operation. Phase 1 focuses on manufacturing: lab automation, machine operation and picking/kitting.</p>
 	</div>
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<!-- <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
@@ -69,10 +69,10 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
+</section> -->
 
 <!-- Three -->
-<section id="three">
+<!-- <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -82,6 +82,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>

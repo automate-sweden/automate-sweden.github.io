@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Automate Sweden will build a world-leading cluster of excellence in robotics that strengthens Sweden's long-term competitiveness through faster automation in SMEs. We treat robots as autonomous systems with AI that makes robots adapt to humans, which lowers programming costs, increases flexibility, and shortens the time from idea to operation. Phase 1 focuses on manufacturing: lab automation, machine operation and picking/kitting.
+Automate Sweden will build a world-leading cluster of excellence in robotics that strengthens Sweden's long-term competitiveness through faster automation in SMEs.
