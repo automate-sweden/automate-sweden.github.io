@@ -2,7 +2,7 @@
 title: About
 layout: about
 description: 'Automate Sweden is a Vinnova excellence cluster in robotics'
-image: assets/images/pic07.jpg
+image: assets/images/cluster-of-excellence.jpg
 nav-menu: true
 ---
 
