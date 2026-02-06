@@ -1,7 +1,7 @@
 # site settings
 title: Automate Sweden
 subtitle: A Swedish Excellence Cluster
-email: automate-sweden@excellent.se
+email: volker.krueger@cs.lth.se
 description: "Making advanced automation practical for Swedish industry."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://automate-sweden.github.io # the base hostname & protocol for your site
