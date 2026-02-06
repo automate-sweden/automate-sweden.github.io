@@ -5,45 +5,53 @@ description: 'Automate Sweden is a Vinnova excellence cluster in robotics'
 image: assets/images/cluster-of-excellence.jpg
 nav-menu: true
 ---
+# About Automate Sweden
 
-<div id="main">
-    <section id="one">
-        <div class="inner">
-            <div class="row">
-                <div class="6u 12u$(small)">
-                    <header class="major">
-                        <h2>Challenge</h2>
-                    </header>
-                    <p>Sweden's large manufacturing companies are entering a new industrial reality. In China, most of the world’s new robot capacity is now being installed, supported by massive state investments in AI and with a clear strategy for humanoid robotics in industry. At the same time, Swedish enterprises face rising costs, skills shortages and intensifying global competition, making time-to-scale and risk reduction decisive factors for the next wave of automation.</p>
-                </div>
+Automate Sweden is a **national, federated ecosystem for industrial automation** — and a **platform that provides shared infrastructure, coordination, and continuity**.
 
-                <div class="6u 12u$(small)">
-                    <header class="major">
-                        <h2>Ambition</h2>
-                    </header>
-                    <p>As a national platform, Automate Sweden will take on a central role in developing Sweden’s robotics capability over the next 10-15 years, with a clear link to security of supply, technological sovereignty and long-term industrial sustainability. For companies that engage early, a unique opportunity opens up: to influence how tomorrow's production systems are shaped, and secure their place in the next industrial era.</p>
-                </div>
-            </div>
-        </div>
-    </section>
+Our purpose is to **close the loop** between all stakeholders needed to turn advanced automation into real industrial capability:
+industry (SMEs and large enterprises), researchers, system integrators, technology providers, and public actors.
 
-    <section id="two">
-        <div class="inner">
-            <header class="major">
-            <h2>Our approach</h2>
-            </header>
-            <p>Automate Sweden is building a federated, multi-hub ecosystem where large enterprises connect with system integrators, hardware providers, startups, researchers and students. Here, companies can test, adapt and deploy advanced automation &mdash; including AI-based control systems, language-based interfaces and emerging humanoid platforms &mdash; in real production environments, and then standardize and scale validated solutions across sites using repeatable integration patterns.</p>
+Instead of fragmented initiatives and one-off pilots, Automate Sweden is designed to connect needs, validation, deployment, and learning into a continuous system.
 
-            <p>A shared "single front door", booking portal, and clear access rules make it easy for enterprises to engage without having to navigate a fragmented innovation landscape. Through shared testbeds, companies can validate applications, safety, and business value before moving forward with major investments. The cluster will secure clear governance for IP, data and confidentiality, enabling pre-competitive collaboration while protecting each partner's competitive differentiation.</p>
-        </div>
-    </section>
+---
 
-    <section id="three">
-        <div class="inner">
-            <header class="major">
-                <h2>Early adoption of humanoid robotics and foundation models</h2>
-            </header>
-            <p>The choice to include humanoid robotics and large language models early is strategic. Humanoids are intended, and in part built, to work in environments designed for humans, which reduces the need for costly rebuilding when flexibility is required. At the same time, breakthroughs in AI, such as vision-language-action models, simulation, and digital twins, enable robots to learn new tasks faster and operate in real environments. Several difficulties remain and alternative approaches exist, including within Swedish robot-related companies.</p>
-        </div>
-    </section>
-</div>
+## What we are building
+
+Automate Sweden is intentionally being developed step by step.  
+The mission and operating logic are clear, while concrete priorities (focus areas, testbeds, collaboration formats) are **co-designed together with the organisations that engage**.
+
+This is a deliberate choice: advanced automation cannot be designed top-down. It must reflect real constraints and opportunities across sectors and company sizes.
+
+---
+
+## What “closing the loop” means in practice
+
+Automation succeeds when it becomes repeatable:
+
+**needs** → **research & pilots** → **validation in testbeds** → **integration into deployable solutions** → **deployment in industry** → **feedback that improves the next cycle**
+
+Automate Sweden creates the conditions for this loop to run continuously — at national scale.
+
+---
+
+## What we focus on
+
+We treat robots and automation as **autonomous systems**, where AI helps systems adapt to people and processes, lowering programming cost, increasing flexibility, and reducing time from idea to deployment.
+
+Our ambition is practical impact:
+- faster and safer adoption of automation in SMEs  
+- stronger industrial value chains and integration capacity  
+- shared test and demonstration environments  
+- a clearer pathway from excellent research to deployed systems  
+
+---
+
+## Ways to engage
+
+Engagement happens in two phases:
+
+- **Engage now:** discussions and workshops to shape the cluster  
+- **Engage next:** structured participation once the cluster is established (pilots, testbeds, collaboration formats)
+
+See the **Get involved** page to start.
