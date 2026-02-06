@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to the future of robotics and automation, made in Sweden'
-description: null
+landing-title: 'A national ecosystem for industrial automation — and a platform to make it work'
+description: 'Making advanced automation practical for Swedish industry.'
 image: null
 author: null
 show_tile: false
