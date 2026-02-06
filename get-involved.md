@@ -5,32 +5,52 @@ description: Automate Sweden provides numerous benefits for large enterprises an
 image: assets/images/sweden-flag.jpg
 nav-menu: true
 ---
+# Get involved
 
-<div id="main">
-    <section id="one">
-        <div class="inner">
-            <div class="row">
-                <div class="6u 12u$(small)">
-                    <header class="major">
-                        <h2>Benefits for large enterprises</h2>
-                    </header>
-                    <ul>
-                        <li><b>Time-to-scale</b>: move from pilot projects to multi-site rollout with repeatable integration patterns</li>
-                        <li><b>De-risking</b>: validated reference architectures, safety cases, cybersecurity patterns and procurement templates</li>
-                        <li><b>Strategic positioning</b>: influence interfaces, data/IP governance and the "foundation robotics software" layer that will shape industrial automation over the next decade</li>
-                        <li><b>Access to talent</b>: a direct pipeline of students, researchers and targeted education aligned with new competence demands</li>
-                        <li><b>Access to knowledge and networks in Sweden and Europe</b>: faster partnering, benchmarking and technology diffusion through a curated ecosystem</li>
-                        <li><b>Newest technologies without big fees to overseas tech companies</b>: a vendor-neutral approach that reduces lock-in and strengthens long-term capability and sovereignty</li>
-                        <li><b>Ownership of competence</b>: internal capability building &mdash; not only external delivery &mdash; so enterprises can maintain and evolve systems over time</li>
-                    </ul>
-                </div>
-                <div class="6u 12u$(small)">
-                    <header class="major">
-                        <h2>Benefits for SMEs</h2>
-                    </header>
-                    ...
-                </div>
-            </div>
-        </div>
-    </section>
-</div>
+Automate Sweden is being developed step by step.  
+Engagement therefore happens in **two phases**: shaping the cluster now, and participating in its activities once it is established.
+
+Both matter — but they serve different purposes.
+
+---
+
+## Engage now: shaping the cluster
+
+During the development phase, engagement focuses on **dialogue and co-design**.
+
+Current ways to engage include:
+- **Direct discussions** with the Automate Sweden team  
+- **Workshops and roundtables** with companies, integrators, and researchers  
+- **Joint exploration of challenges and opportunities** in industrial automation  
+
+This phase is particularly relevant if you want to:
+- influence the focus areas of the cluster  
+- help define meaningful use cases and test environments  
+- contribute experience, constraints, and perspectives from real operations  
+
+**How to start**
+1. Email us at **automate-sweden@excellent.se**  
+2. Tell us who you are (SME / LE / integrator / provider / research)  
+3. Add 2–3 lines on what you would like to explore or shape  
+4. We will suggest a short meeting and/or invite you to the next relevant workshop
+
+---
+
+## Engage next: participating in the cluster
+
+Once Automate Sweden is formally established, additional engagement pathways will open.
+
+These will include structured opportunities such as:
+- participation in pilot and demonstration activities  
+- access to shared testbeds and infrastructure  
+- collaboration within thematic or sector-focused initiatives  
+- long-term partnerships across industry, research, and technology providers  
+
+These modes of engagement are being designed based on insights gathered during the current development phase.
+
+---
+
+## Why engage early?
+
+Because the cluster is **federated and needs-driven**.  
+Early engagement helps ensure that priorities, testbeds, and collaboration formats match real industrial constraints and opportunities — and that Automate Sweden becomes a platform that creates value in practice.
