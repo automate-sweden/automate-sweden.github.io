@@ -7,7 +7,6 @@ image: null
 author: null
 show_tile: false
 ---
-
 **Making advanced automation practical for Swedish industry.**
 
 Automation is becoming unavoidable — but for many companies it is still too complex, too risky, or too fragmented to adopt at scale.  
@@ -111,5 +110,5 @@ Once Automate Sweden is formally established, additional engagement pathways wil
 
 If you are interested in shaping Automate Sweden, the simplest first step is to reach out.
 
-- **Contact:** automate-sweden@excellent.se  
+- **Contact:** volker.krueger@cs.lth.se  
 - Or visit the **Get involved** page for the current engagement process.
