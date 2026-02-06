@@ -8,8 +8,6 @@ author: null
 show_tile: false
 ---
 
-# A national ecosystem for industrial automation — and a platform to make it work
-
 **Making advanced automation practical for Swedish industry.**
 
 Automation is becoming unavoidable — but for many companies it is still too complex, too risky, or too fragmented to adopt at scale.  
