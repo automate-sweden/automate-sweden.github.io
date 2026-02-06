@@ -1,12 +1,10 @@
 ---
 layout: about
 title: Pillars
-description: Automated Sweden brings academia, companies, and investors together
+description: 'The building blocks that make the loop from needs to deployment work.'
 image: assets/images/office-robots.jpg
 nav-menu: true
 ---
-# Pillars
-
 Automate Sweden is built as a **platform** and a **federated ecosystem**.  
 These pillars describe the core building blocks that make the loop from needs to deployment work.
 

@@ -1,12 +1,10 @@
 ---
 title: Who we are
 layout: about
-description: 'Automate Sweden builds on decades of Swedish excellence'
+description: 'A federated network of industry, integrators, researchers, and public actors.'
 image: assets/images/cluster-of-excellence.jpg
 nav-menu: true
 ---
-# Who we are
-
 Automate Sweden is a **national, federated ecosystem** for industrial automation.
 
 It brings together organisations across Sweden — including:

@@ -1,12 +1,10 @@
 ---
 layout: about
 title: Get involved
-description: Automate Sweden provides numerous benefits for large enterprises and SMEs that become members of the cluster
+description: 'Join the co-design phase through discussions and workshops — and help shape the cluster.'
 image: assets/images/sweden-flag.jpg
 nav-menu: true
 ---
-# Get involved
-
 Automate Sweden is being developed step by step.  
 Engagement therefore happens in **two phases**: shaping the cluster now, and participating in its activities once it is established.
 
