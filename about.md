@@ -5,6 +5,7 @@ description: 'A national, federated ecosystem — and a platform to make advance
 image: assets/images/cluster-of-excellence.jpg
 nav-menu: true
 ---
+
 Automate Sweden is a **national, federated ecosystem for industrial automation** — and a **platform that provides shared infrastructure, coordination, and continuity**.
 
 Our purpose is to **close the loop** between all stakeholders needed to turn advanced automation into real industrial capability:

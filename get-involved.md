@@ -5,6 +5,7 @@ description: 'Join the co-design phase through discussions and workshops — and
 image: assets/images/sweden-flag.jpg
 nav-menu: true
 ---
+
 Automate Sweden is being developed step by step.  
 Engagement therefore happens in **two phases**: shaping the cluster now, and participating in its activities once it is established.
 

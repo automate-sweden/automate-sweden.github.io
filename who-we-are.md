@@ -5,6 +5,7 @@ description: 'A federated network of industry, integrators, researchers, and pub
 image: assets/images/cluster-of-excellence.jpg
 nav-menu: true
 ---
+
 Automate Sweden is a **national, federated ecosystem** for industrial automation.
 
 It brings together organisations across Sweden — including:
