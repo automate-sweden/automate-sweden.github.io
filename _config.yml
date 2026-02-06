@@ -2,6 +2,8 @@
 title: Automate Sweden
 subtitle: A Swedish Excellence Cluster
 email: volker.krueger@cs.lth.se
+# Formspree endpoint for the contact form (set to something like https://formspree.io/f/abcd1234)
+formspree_endpoint: ""
 description: "Making advanced automation practical for Swedish industry."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://automate-sweden.github.io # the base hostname & protocol for your site
