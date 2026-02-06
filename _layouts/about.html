@@ -10,6 +10,8 @@
 
     <body>
 
+        <div id="wrapper">
+
         {% include header.html %}
 
         <section id="banner" class="style2">
@@ -30,9 +32,17 @@
             </div>
         </section>
 
-    {{ content }}
+        <div id="main" class="alt">
+            <section id="one">
+                <div class="inner">
+                    {{ content }}
+                </div>
+            </section>
+        </div>
 
     {% include footer.html %}
+
+        </div>
 
 </body>
 
