@@ -5,11 +5,11 @@ email: volker.krueger@cs.lth.se
 description: "Making advanced automation practical for Swedish industry."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://automate-sweden.github.io # the base hostname & protocol for your site
-author:
-street_address: 
-city: 
+author: Volker Krueger
+street_address: Ole Römers väg 3
+city: Lund
 state: 
-zip_code: 
+zip_code:  22100 
 country: Sweden
 phone: 
 
