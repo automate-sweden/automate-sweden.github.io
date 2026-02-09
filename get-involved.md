@@ -28,7 +28,7 @@ This phase is particularly relevant if you want to:
 - contribute experience, constraints, and perspectives from real operations  
 
 **How to start**
-1. Email us at **automate-sweden@excellent.se**  
+1. Email the coordinator (Prof. Volker Krueger) at **volker.krueger@cs.lth.se**
 2. Tell us who you are (SME / LE / integrator / provider / research)  
 3. Add 2–3 lines on what you would like to explore or shape  
 4. We will suggest a short meeting and/or invite you to the next relevant workshop
